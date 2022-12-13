@@ -1,2 +1,2 @@
 # RetailWebApp
-**Node.js bakcend project using JWT authentication**
+**Node.js backend project using JWT authentication**
